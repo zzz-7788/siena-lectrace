@@ -1,0 +1,12 @@
+{
+  "version": "2",
+  "traces": [
+    {
+      "id": "detection_lectrace",
+      "title": "From EEG to a seizure score\nMD6117 Final Course Project \u00b7 Siena Seizure Detection \u00b7 DSAINet",
+      "path": "traces/detection_lectrace.json",
+      "step_count": 15,
+      "built_at": "2026-10-25T10:39:59.410041+00:00"
+    }
+  ]
+}
